@@ -1,0 +1,16 @@
+{
+    "demo": {
+        "Url_Login": "/demo/login.json",
+        "Url_OrderHome_getData": "/demo/goods.json",
+        "Url_PendingSheipping": "/demo/cart1-pendingSheipping.json",
+        "Url_WaitingDelivery": "/demo/cart1-WaitingDelivery.json"
+    },
+    "markdev": {
+        "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/Login",
+        "Url_OrderHome_getData": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetGoodsList",
+        "Url_OrderCart_create": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CreateOrder",
+        "Url_PendingSheipping": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetOrderList",
+        "url_deleteOrder": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CancelOrder",
+        "Url_WaitingDelivery": ""
+    }
+}
