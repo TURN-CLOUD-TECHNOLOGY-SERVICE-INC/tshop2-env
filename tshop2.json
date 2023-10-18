@@ -2,7 +2,7 @@
    "dev":{
       "Url_BaseApi":"http://192.168.241.70:8091/api"
    },
-   "TC":{
+   "tc":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/api"
    },
    "markTest":{
