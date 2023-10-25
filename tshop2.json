@@ -1,4 +1,7 @@
 {
+   "backDev":{
+      "Url_BaseApi":"http://localhost:55555/api"
+   },
    "dev":{
       "Url_BaseApi":"http://192.168.241.70:8091/api"
    },
