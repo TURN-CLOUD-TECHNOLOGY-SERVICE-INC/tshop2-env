@@ -16,5 +16,8 @@
    },
    "HannsTest":{
       "Url_BaseApi":"http://192.168.241.70:4001/api"
+   },
+   "Hanns":{
+      "Url_BaseApi":"https://glorystone-tshopapi.turn2cloud.com/api"
    }
 }
