@@ -11,7 +11,8 @@
         "Url_OrderCart_create": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CreateOrder",
         "Url_PendingSheipping": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetOrderList",
         "url_deleteOrder": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CancelOrder",
-        "Url_WaitingDelivery": ""
+        "Url_WaitingDelivery": "",
+        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/api/Auth/SSOLoginResult"
     },
     "tc": {
         "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/Login",
@@ -19,7 +20,8 @@
         "Url_OrderCart_create": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CreateOrder",
         "Url_PendingSheipping": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetOrderList",
         "url_deleteOrder": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CancelOrder",
-        "Url_WaitingDelivery": ""
+        "Url_WaitingDelivery": "",
+        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/api/Auth/SSOLoginResult"
     },
     "markTest": {
         "Url_Login": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/Login",
@@ -27,7 +29,8 @@
         "Url_OrderCart_create": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/CreateOrder",
         "Url_PendingSheipping": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/GetOrderList",
         "url_deleteOrder": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/CancelOrder",
-        "Url_WaitingDelivery": ""
+        "Url_WaitingDelivery": "",
+        "Url_SSOLoginResult": "https://test-sso.mrmark.com.tw:4001/api/Auth/SSOLoginResult"
     },
     "mark": {
         "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/Login",
@@ -35,6 +38,7 @@
         "Url_OrderCart_create": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CreateOrder",
         "Url_PendingSheipping": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetOrderList",
         "url_deleteOrder": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CancelOrder",
-        "Url_WaitingDelivery": ""
+        "Url_WaitingDelivery": "",
+        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/api/Auth/SSOLoginResult"
     }
 }
