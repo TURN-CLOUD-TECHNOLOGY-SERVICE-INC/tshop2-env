@@ -13,4 +13,12 @@
         "url_deleteOrder": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CancelOrder",
         "Url_WaitingDelivery": ""
     }
+    "tc": {
+        "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/Login",
+        "Url_OrderHome_getData": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetGoodsList",
+        "Url_OrderCart_create": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CreateOrder",
+        "Url_PendingSheipping": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/GetOrderList",
+        "url_deleteOrder": "https://tshop2-develop-api.turn2cloud.com:44392/api/ProOrderX/CancelOrder",
+        "Url_WaitingDelivery": ""
+    }
 }
