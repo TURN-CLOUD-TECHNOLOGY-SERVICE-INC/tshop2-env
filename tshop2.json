@@ -22,5 +22,8 @@
    },
    "SOGOTest":{
       "Url_BaseApi":"http://192.168.241.70:5001/api"
+   },
+   "RDM":{
+      "Url_BaseApi":"http://192.168.241.70:55555/{0}/api"
    }
 }
