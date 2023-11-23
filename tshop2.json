@@ -6,7 +6,7 @@
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api"
    },
    "uat":{
-      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/release/uat/api"
+      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:4001/release/uat/api"
    },
    "tc":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/website/api"
