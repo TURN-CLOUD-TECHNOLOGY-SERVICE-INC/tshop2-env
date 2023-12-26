@@ -27,6 +27,6 @@
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
    },
    "AmartTest":{
-      "Url_BaseApi":"http://192.168.241.70:6001/api"
+      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/AMART_TSHOP2_DEV/api"
    }
 }
