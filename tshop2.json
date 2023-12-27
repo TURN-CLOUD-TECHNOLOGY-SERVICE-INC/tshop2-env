@@ -14,13 +14,13 @@
    "mark":{
       "Url_BaseApi":"https://sso.mrmark.com.tw:4001/api"
    },
-   "HannsTest":{
+   "HannsDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/Hanns_TSHOP2_DEV/tshop2-backend/api"
    },
    "Hanns":{
       "Url_BaseApi":"https://glorystone-tshopapi.turn2cloud.com/api"
    },
-   "SOGOTest":{
+   "SOGODev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/SOGO_TSHOP2_DEV/tshop2-backend/api"
    },
    "RDM":{
