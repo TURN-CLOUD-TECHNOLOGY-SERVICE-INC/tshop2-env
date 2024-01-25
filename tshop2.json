@@ -31,5 +31,8 @@
    },
    "test":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/0118TEST/TSHOP/api"
+   },
+   "PostronTEST":{
+      "Url_BaseApi":"https://tshop2-postron-uatapi.turn2cloud.com:443/POSTRON_TSHOP2_TEST/api"
    }
 }
