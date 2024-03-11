@@ -34,5 +34,8 @@
    },
    "PostronTest":{
       "Url_BaseApi":"https://tshop2-postron-uatapi.turn2cloud.com:443/api"
+   },
+     "ElifeDev":{
+      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:4001/Elife_TSHOP2_DEV/tshop2-backend/api"
    }
 }
