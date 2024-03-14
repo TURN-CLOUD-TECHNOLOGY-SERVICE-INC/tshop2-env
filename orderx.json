@@ -7,7 +7,7 @@
     },
     "backDev": {
         "Url_Base": "https://localhost:55555/api/",
-        "Url_Login": "https://localhost:55555/api/ProOrderX/Login",
+        "Url_Login": "https://localhost:55555/api/Login",
         "Url_SSOLoginResult": "https://localhost:55555/api/Auth/SSOLoginResult"
     },    
     "tc": {
