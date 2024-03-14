@@ -6,7 +6,8 @@
         "Url_WaitingDelivery": "/demo/cart1-WaitingDelivery.json"
     },
     "backDev": {
-        "Url_Base": "https://localhost:55555/api/"
+        "Url_Base": "https://localhost:55555/api/",
+        "Url_Login": "https://localhost:55555/api/ProOrderX/Login"
     },    
     "tc": {
         "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/ProOrderX/Login",
