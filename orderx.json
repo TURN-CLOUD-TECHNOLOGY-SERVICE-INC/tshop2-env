@@ -10,6 +10,11 @@
         "Url_Login": "https://localhost:55555/api/ProOrderX/Login",
         "Url_SSOLoginResult": "https://localhost:55555/api/Auth/SSOLoginResult"
     },
+    "RDM98748_safety": {
+        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM98748_safety/api/",
+        "Url_Login": ""https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM98748_safety/api/ProOrderX/Login",
+        "Url_SSOLoginResult": ""https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM98748_safety/api/Auth/SSOLoginResult"
+    },
     "tc": {
         "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/ProOrderX/Login",
         "Url_OrderHome_getData": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/ProOrderX/GetGoodsList",
