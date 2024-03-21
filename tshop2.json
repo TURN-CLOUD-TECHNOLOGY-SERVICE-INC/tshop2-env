@@ -39,6 +39,6 @@
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/ELIFE_TSHOP2_DEV/tshop2-backend/api"
    },
      "AmartTest":{
-      "Url_BaseApi":"https://tshop2-api-amart-testaio.turn2cloud.com/api"
+      "Url_BaseApi":"https://tshop2-api-amart-testaio.turn2cloud.com/"
    }
 }
