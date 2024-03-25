@@ -18,7 +18,7 @@
     "tc": {
         "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/",
         "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/ProOrderX/Login",
-        "Url_SSOLoginResult": https://tshop2-develop-api.turn2cloud.com:44392/website/api/Auth/SSOLoginResult"
+        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/Auth/SSOLoginResult"
    },
     "markTest": {
         "Url_Login": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/Login",
