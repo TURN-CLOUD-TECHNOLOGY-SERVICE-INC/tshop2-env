@@ -22,7 +22,7 @@
    },
     "markTest": {
         "Url_Base": "https://test-sso.mrmark.com.tw:4001/api/",
-        "Url_Login": https://test-sso.mrmark.com.tw:4001/api/ProOrderX/Login",
+        "Url_Login": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/Login",
         "Url_SSOLoginResult": "https://test-sso.mrmark.com.tw:4001/api/Auth/SSOLoginResult"
     },
     "mark": {
