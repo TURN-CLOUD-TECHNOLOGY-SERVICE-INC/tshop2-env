@@ -43,5 +43,8 @@
    },
      "GiantDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api"
+   },
+     "31iceDev":{
+      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/31ICE_TSHOP2_DEV/tshop2-backend/api"
    }
 }
