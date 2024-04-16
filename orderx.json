@@ -9,16 +9,16 @@
         "Url_Base": "https://localhost:55555/api/",
         "Url_Login": "https://localhost:55555/api/ProOrderX/Login",
         "Url_SSOLoginResult": "https://localhost:55555/api/Auth/SSOLoginResult"
-    },
-    "RDM98748_safety": {
-        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM98748_safety/api/",
-        "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM98748_safety/api/ProOrderX/Login",
-        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM98748_safety/api/Auth/SSOLoginResult"
-    },
+    },    
     "tc": {
         "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/",
         "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/ProOrderX/Login",
         "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/Auth/SSOLoginResult"
+   },
+    "GiantDev": {
+        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api/",
+        "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api/ProOrderX/Login",
+        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api/Auth/SSOLoginResult"
    },
     "markTest": {
         "Url_Login": "https://test-sso.mrmark.com.tw:4001/api/ProOrderX/Login",
