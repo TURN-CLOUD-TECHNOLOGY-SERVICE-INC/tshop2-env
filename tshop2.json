@@ -50,6 +50,9 @@
      "BR31Test":{
       "Url_BaseApi":"https://tshop2-BR31-uatapi.turn2cloud.com/api"
    },
+    "BR31":{
+      "Url_BaseApi":"https://tshop2-BR31-prodapi.turn2cloud.com//api"
+   },
      "StdDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/TSHOP2_STD_DEV/tshop2-backend/api"
    }
