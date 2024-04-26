@@ -6,10 +6,10 @@
         "Url_WaitingDelivery": "/demo/cart1-WaitingDelivery.json"
     },
     "backDev": {
-        "Url_Base": "https://localhost:55555/api/",
+        "Url_Base": "https://localhost:55555/api/"
     },
     "RDM102417_safety": {
-        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM102417_safety/api/",
+        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM102417_safety/api/"
     },
     "tc": {
         "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/",
