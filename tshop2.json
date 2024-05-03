@@ -48,7 +48,7 @@
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/BR31_TSHOP2_DEV/tshop2-backend/api"
    },
      "BR31Test":{
-      "Url_BaseApi":"https://test-tshop2.br31.com.tw/api"
+      "Url_BaseApi":"https://tshop2-BR31-uatapi.br31.com.tw/api"
    },
     "BR31":{
       "Url_BaseApi":"https://tshop2-br31-prodapi.br31.com.tw/api"
