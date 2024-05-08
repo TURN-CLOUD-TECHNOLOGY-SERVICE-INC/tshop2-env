@@ -8,13 +8,8 @@
     "backDev": {
         "Url_Base": "https://localhost:55555/api/"
     },
-    "RDM102417_safety": {
-        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM102417_safety/api/"
-    },
     "tc": {
-        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/",
-        "Url_Login": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/ProOrderX/Login",
-        "Url_SSOLoginResult": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/Auth/SSOLoginResult"
+        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/"
    },
     "GiantDev": {
         "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api/",
