@@ -1,0 +1,8 @@
+{
+    "backDev":{
+       "Url_BaseApi":"https://localhost:55555/api"
+    },
+    "backDev70":{
+       "Url_BaseApi":"https://192.168.241.70:56666/website/api"
+    }
+}
