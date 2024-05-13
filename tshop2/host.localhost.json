@@ -1,8 +1,14 @@
 {
-    "backDev":{
-       "Url_BaseApi":"https://localhost:55555/api"
+    "backDev": {
+        "Url_BaseApi": "https://localhost:55555/api"
     },
-    "backDev70":{
-       "Url_BaseApi":"https://192.168.241.70:56666/website/api"
+    "backDev70": {
+        "Url_BaseApi": "https://192.168.241.70:56666/website/api"
+    },
+    "dev": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api"
+    },
+    "tc": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
     }
 }
