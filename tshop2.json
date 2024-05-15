@@ -38,6 +38,9 @@
      "AmartTest":{
       "Url_BaseApi":"https://tshop2-api-amart-testaio.turn2cloud.com/api"
    },
+    "HannsDev": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/Hanns_TSHOP2_DEV/tshop2-backend/api"
+    },
      "GiantDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api"
    },
