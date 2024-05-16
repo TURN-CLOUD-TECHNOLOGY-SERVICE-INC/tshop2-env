@@ -14,6 +14,9 @@
     "dev": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api"
     },
+    "GiantDev": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api"
+    },
     "tc": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
     }
