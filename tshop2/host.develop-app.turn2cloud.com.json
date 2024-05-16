@@ -23,9 +23,6 @@
      "StdDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/TSHOP2_STD_DEV/tshop2-backend/api"
    },
-    "HannsDev": {
-        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/Hanns_TSHOP2_DEV/tshop2-backend/api"
-   },
      "BR31Dev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/BR31_TSHOP2_DEV/tshop2-backend/api"
     },
