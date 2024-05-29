@@ -1,8 +1,5 @@
 {
     "markTest": {
         "Url_BaseApi": "https://test-sso.mrmark.com.tw:4001/api"
-    },
-    "mark": {
-        "Url_BaseApi": "https://sso.mrmark.com.tw:4001/api"
     }
 }
