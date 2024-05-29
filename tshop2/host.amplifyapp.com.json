@@ -11,6 +11,9 @@
     "tc": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
     },
+    "markTest": {
+        "Url_BaseApi": "https://test-sso.mrmark.com.tw:4001/api"
+    },
     "mark": {
         "Url_BaseApi": "https://sso.mrmark.com.tw:4001/api"
     },
@@ -25,6 +28,9 @@
     },
     "AmartTest": {
         "Url_BaseApi": "https://tshop2-api-amart-testaio.turn2cloud.com/api"
+    },
+    "BR31Test": {
+        "Url_BaseApi": "https://tshop2-BR31-uatapi.br31.com.tw/api"
     },
     "BR31": {
         "Url_BaseApi": "https://tshop2-br31-prodapi.br31.com.tw/api"
