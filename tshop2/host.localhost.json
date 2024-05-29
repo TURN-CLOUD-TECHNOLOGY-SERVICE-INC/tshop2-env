@@ -20,9 +20,6 @@
     "RDM": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
     },
-    "PostronTest": {
-        "Url_BaseApi": "https://tshop2-postron-uatapi.turn2cloud.com:443/api"
-    },
     "AmartTest": {
         "Url_BaseApi": "https://tshop2-api-amart-testaio.turn2cloud.com/api"
     },
