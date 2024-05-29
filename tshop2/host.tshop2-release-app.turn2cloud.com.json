@@ -1,8 +1,5 @@
 {
     "AmartTest": {
         "Url_BaseApi": "https://tshop2-api-amart-testaio.turn2cloud.com/api"
-    },
-    "PostronTest": {
-        "Url_BaseApi": "https://tshop2-postron-uatapi.turn2cloud.com:443/api"
     }
 }
