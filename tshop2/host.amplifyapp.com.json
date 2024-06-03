@@ -11,9 +11,6 @@
     "tc": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
     },
-    "mark": {
-        "Url_BaseApi": "https://sso.mrmark.com.tw:4001/api"
-    },
     "Hanns": {
         "Url_BaseApi": "https://glorystone-tshopapi.turn2cloud.com/api"
     },
