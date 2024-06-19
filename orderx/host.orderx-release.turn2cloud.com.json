@@ -1,20 +1,11 @@
 {
-    "backDev": {
-        "Url_BaseApi": "https://localhost:55555/api"
+    "demo": {
+        "Url_Login": "/demo/login.json",
+        "Url_OrderHome_getData": "/demo/goods.json",
+        "Url_PendingSheipping": "/demo/cart1-pendingSheipping.json",
+        "Url_WaitingDelivery": "/demo/cart1-WaitingDelivery.json"
     },
-    "backDev70": {
-        "Url_BaseApi": "https://192.168.241.70:56666/website/api"
-    },
-    "dev": {
-        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api"
-    },
-    "tc": {
-        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
-    },
-    "Hanns": {
-        "Url_BaseApi": "https://glorystone-tshopapi.turn2cloud.com/api"
-    },
-    "RDM": {
-        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
+    "markTest": {
+        "Url_Base": "https://test-sso.mrmark.com.tw:4001/api/"
     }
 }
