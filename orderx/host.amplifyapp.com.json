@@ -1,0 +1,20 @@
+{
+    "backDev": {
+        "Url_BaseApi": "https://localhost:55555/api"
+    },
+    "backDev70": {
+        "Url_BaseApi": "https://192.168.241.70:56666/website/api"
+    },
+    "dev": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api"
+    },
+    "tc": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
+    },
+    "Hanns": {
+        "Url_BaseApi": "https://glorystone-tshopapi.turn2cloud.com/api"
+    },
+    "RDM": {
+        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
+    }
+}
