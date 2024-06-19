@@ -1,5 +1,5 @@
 {
     "Hannstd": {
-        "Url_BaseApi": "https://glorystone-tdinerapi.turn2cloud.com:44392/api"
+        "Url_BaseApi": "https://glorystone-tdinerapi.turn2cloud.com:44392/GS_TDINER_PROD/tshop2-backend/api"
     }
 }
