@@ -35,4 +35,7 @@
     "BR31":{
       "Url_BaseApi":"https://tshop2-br31-prodapi.br31.com.tw/api"
    }
+   "ElifeTest":{
+      "Url_BaseApi":"https://tshop2-Elife-uatapi.elifemall.com.tw/api"
+   }
 }
