@@ -9,7 +9,7 @@
         "Url_Base": "https://localhost:55555/api/"
     },
     "RDM": {
-        "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
+        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
     },
     "tc": {
         "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/"
