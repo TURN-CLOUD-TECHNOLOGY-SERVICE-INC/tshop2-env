@@ -1,5 +1,5 @@
 {
-    "cloud": {
+    "CloudUat": {
         "Url_BaseApi": "https://tshop2-cloud-uatapi.turn2cloud.com:44393/api"
     }
 }
