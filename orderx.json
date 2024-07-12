@@ -3,7 +3,9 @@
         "Url_Login": "/demo/login.json",
         "Url_OrderHome_getData": "/demo/goods.json",
         "Url_PendingSheipping": "/demo/cart1-pendingSheipping.json",
-        "Url_WaitingDelivery": "/demo/cart1-WaitingDelivery.json"
+        "Url_WaitingDelivery": "/demo/cart1-WaitingDelivery.json",
+        "Url_CompletedOrders": "/demo/cart1-CompletedOrders.json",
+        "Url_FailedOrders": "/demo/cart1-FailedOrders.json"
     },
     "backDev": {
         "Url_Base": "https://localhost:55555/api/"
