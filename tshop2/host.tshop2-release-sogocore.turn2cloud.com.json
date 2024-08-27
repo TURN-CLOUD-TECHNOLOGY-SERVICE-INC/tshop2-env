@@ -1,5 +1,5 @@
 {
     "sogocore": {
-        "Url_BaseApi": "http://tshop2-sogocore-uatapi.turn2cloud.com:81/api"
+        "Url_BaseApi": "https://tshop2-sogocore-uatapi.turn2cloud.com:4431/api"
     }
 }
