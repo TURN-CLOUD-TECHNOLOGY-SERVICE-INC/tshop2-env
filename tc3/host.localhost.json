@@ -9,6 +9,11 @@
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },
+  "RDM": {
+    "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api",
+    "Micro_Name": "tshop2-frontend-std",
+    "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
+  },
   "backDev70": {
     "Url_BaseApi": "https://192.168.241.70:56666/website/api",
     "Micro_Name": "tshop2-frontend-std",
@@ -19,10 +24,5 @@
   },
   "Hanns": {
     "Url_BaseApi": "https://glorystone-tshopapi.turn2cloud.com/api"
-  },
-  "RDM": {
-    "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api",
-    "Micro_Name": "tshop2-frontend-std",
-    "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   }
 }
