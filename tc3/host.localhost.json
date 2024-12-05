@@ -1,53 +1,62 @@
 {
   "backDev": {
     "Url_BaseApi": "https://localhost:55555/api",
+    "Url_MicroApi": "https://localhost:55555/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "http://localhost:4000"
   },
   "backDev70": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "http://localhost:4000"
   },
   "backDev70_sogo": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "http://localhost:4000"
   },
   "tc": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },
   "backDev70_einv": {
     "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
+    "Url_MicroApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
     "Micro_Name": "tceinv-frontend-std",
     "Micro_Entry": "http://localhost:4000"
   },
   "tc_einv": {
     "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
+    "Url_MicroApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
     "Micro_Name": "tceinv-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },  
   "tc_sogo": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },  
   "backDev70_backup": {
     "Url_BaseApi": "https://192.168.241.70:56666/website/api",
+    "Url_MicroApi": "https://192.168.241.70:56666/website/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },  
   "RDM": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },
   "dev": {
-    "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api"
-  },
-  "Hanns": {
-    "Url_BaseApi": "https://glorystone-tshopapi.turn2cloud.com/api"
+    "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api",
+    "Micro_Name": "tshop2-frontend-std",
+    "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   }
 }
