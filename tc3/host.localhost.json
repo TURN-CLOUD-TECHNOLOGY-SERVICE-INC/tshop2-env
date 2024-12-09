@@ -21,7 +21,7 @@
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
     "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
     "Micro_Name": "tshop2-frontend-std",
-    "Micro_Entry": "/tshop2-frontend-std"
+    "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },
   "backDev70_einv": {
     "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
