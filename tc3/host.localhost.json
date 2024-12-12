@@ -23,6 +23,12 @@
     "Micro_Name": "tshop2-frontend-std",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },
+  "backDev_einv": {
+    "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
+    "Url_MicroApi": "https://localhost:55555/api",
+    "Micro_Name": "tceinv-frontend-std",
+    "Micro_Entry": "http://localhost:4000"
+  },
   "backDev70_einv": {
     "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
     "Url_MicroApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
