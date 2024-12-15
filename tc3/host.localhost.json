@@ -11,7 +11,7 @@
     "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
     "Micro_Name": "tshop2-frontend-std",
     "Micro_SName": "TC3",
-    "Micro_Entry": "http://localhost:4000"
+    "Micro_Entry": "/tshop2-frontend-std/"
   },
   "backDev70_sogo": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
