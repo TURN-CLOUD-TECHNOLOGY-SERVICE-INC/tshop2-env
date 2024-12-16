@@ -13,6 +13,13 @@
     "Micro_SName": "TC3",
     "Micro_Entry": "http://localhost:4000"
   },
+  "backDev70_test": {
+    "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
+    "Micro_Name": "tshop2-frontend-std-test",
+    "Micro_SName": "TC3",
+    "Micro_Entry": "https://feature-rdm241210-02.d3ghndo7yq5trf.amplifyapp.com/"
+  },  
   "backDev70_sogo": {
     "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
     "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241121_safety/api",
