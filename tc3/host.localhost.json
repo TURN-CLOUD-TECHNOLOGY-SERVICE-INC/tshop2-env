@@ -27,6 +27,13 @@
     "Micro_SName": "TC3",
     "Micro_Entry": "https://develop.d3ghndo7yq5trf.amplifyapp.com"
   },
+  "tc_test": {
+    "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
+    "Url_MicroApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM241127_safety/api",
+    "Micro_Name": "tshop2-frontend-std-test",
+    "Micro_SName": "TC3",
+    "Micro_Entry": "https://feature-rdm241210-02.d3ghndo7yq5trf.amplifyapp.com"
+  },  
   "backDev_einv": {
     "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
     "Url_MicroApi": "https://localhost:55555/api",
