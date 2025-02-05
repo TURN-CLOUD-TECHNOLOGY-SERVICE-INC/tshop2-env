@@ -56,7 +56,7 @@
     "Micro_Entry": "https://feature-rdm241210-02.d3ghndo7yq5trf.amplifyapp.com/"
   },  
   "backDev_einv": {
-    "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/RDM250125_safety/api",
+    "Url_BaseApi": "https://tc-ai-lab.turn2cloud.com:44310/tc3-backend-std/api",
     "Url_MicroApi": "https://localhost:55555/api",
     "Micro_Name": "tceinv-frontend-std",
     "Micro_SName": "EINV",
