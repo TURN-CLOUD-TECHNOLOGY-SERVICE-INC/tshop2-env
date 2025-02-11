@@ -32,9 +32,6 @@
      "EHSDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/EHS_TSHOP2_DEV/tshop2-backend/api"
     },
-     "StgDev":{
-      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/STG_TSHOP2_DEV/tshop2-backend/api"
-    },
     "tc": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
     }
