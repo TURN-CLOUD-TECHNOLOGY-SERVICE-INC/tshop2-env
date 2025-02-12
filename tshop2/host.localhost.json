@@ -17,6 +17,9 @@
     "MarkSTG": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/STG_TSHOP2_DEV/tshop2-backend/api"
     },
+    "EHS": {
+        "Url_BaseApi": "https://tshop2-release-api.turn2cloud.com:44392/EHS_TSHOP2_TEST/tshop2-backend/api"
+    },
     "RDM": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
     }
