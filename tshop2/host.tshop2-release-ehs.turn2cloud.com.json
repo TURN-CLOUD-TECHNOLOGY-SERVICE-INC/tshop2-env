@@ -1,5 +1,5 @@
 {
     "EHS": {
-        "Url_BaseApi": "https://tshop2-ehs-uatapi.turn2cloud.com:4431/EHS_TSHOP2_TEST/tshop2-backend/api"
+        "Url_BaseApi": "https://tshop2-ehs-uatapi.turn2cloud.com:4431/api"
     }
 }
