@@ -1,5 +1,8 @@
 {
     "CloudProd": {
         "Url_BaseApi": "https://tshop2cloud-prodapi.turn2cloud.com:4431/api"
+ },
+    "CloudProdPhone": {
+        "Url_BaseApi": "https://tshop2cloud-prodapi.turn2cloud.com:4432/api"
     }
 }
