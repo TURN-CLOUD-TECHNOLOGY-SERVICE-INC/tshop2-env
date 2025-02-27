@@ -6,7 +6,7 @@
         "Url_BaseApi": "https://tshop2-cloud-devapi.turn2cloud.com:44389/TSHOP2_CLOUD_DEV_01/api"
     },
 	"CloudDev2": {
-        "Url_BaseApi": "https://tshop2-cloud-devapi.turn2cloud.com:44387/test2/api"
+        "Url_BaseApi": "https://tshop2-cloud-devapi.turn2cloud.com:44389/TSHOP2_CLOUD_DEV_02/api"
     },
 	"CloudDev3": {
         "Url_BaseApi": "https://tshop2-cloud-devapi.turn2cloud.com:44389/TSHOP2_CLOUD_DEV_03/api"
