@@ -1,5 +1,5 @@
 {
     "EHS": {
-        "Url_BaseApi": "https://tshop2-ehs-uatapi.etsquare.com.tw/api"
+        "Url_BaseApi": "https://tshop2-ehs-uatapi.etsquare.com.tw:4431/api"
     }
 }
