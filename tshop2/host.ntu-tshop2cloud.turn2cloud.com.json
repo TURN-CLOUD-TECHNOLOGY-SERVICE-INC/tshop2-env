@@ -1,5 +1,5 @@
 {
-    "CloudProd": {
+    "NTU": {
         "Url_BaseApi": "https://tshop2cloud-prodapi.turn2cloud.com:4431/NTU_TSHOP2_PROD/api"
  }
 }
