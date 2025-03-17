@@ -13,8 +13,5 @@
     },
     "tc": {
         "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/website/api/"
-   },
-    "dev70": {
-        "Url_Base": "https://tshop2-develop-api.turn2cloud.com:44392/feature/dev/api/"
    }
 }
