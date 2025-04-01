@@ -21,6 +21,6 @@
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/feature/{0}/api"
     },
     "JZNuat": {
-        "Url_BaseApi": "https://tshop2-jzn-uatapi.jzn.com.tw/api"
+        "Url_BaseApi": "https://tshop2-jzn-uatapi.jzn.com.tw:44301/api"
     }
 }
