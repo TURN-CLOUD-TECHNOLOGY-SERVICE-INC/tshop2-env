@@ -11,7 +11,7 @@
     "tc": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
     },
-    "tc1": {
+    "tc_error": {
         "Url_BaseApi": "https://test.com:44392/website/api"
     },    
     "Hanns": {
