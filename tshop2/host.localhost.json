@@ -10,10 +10,7 @@
     },
     "tc": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/website/api"
-    },
-    "tc_error": {
-        "Url_BaseApi": "https://test.com:44392/website/api"
-    },    
+    },  
     "Hanns": {
         "Url_BaseApi": "https://glorystone-tshopapi.turn2cloud.com/api"
     },
