@@ -17,6 +17,9 @@
     "GiantDev": {
         "Url_BaseApi": "https://tshop2-develop-api.turn2cloud.com:44392/GIANT_TSHOP2_DEV/tshop2-backend/api"
    },
+     "SOGOESLDev":{
+      "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/SOGOESL_TSHOP2_DEV/tshop2-backend/api"
+   },
      "ElifeDev":{
       "Url_BaseApi":"https://tshop2-develop-api.turn2cloud.com:44392/ELIFE_TSHOP2_DEV/tshop2-backend/api"
    },
