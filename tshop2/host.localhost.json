@@ -28,5 +28,8 @@
     },
     "JZNuat": {
         "Url_BaseApi": "https://tshop2-jzn-uatapi.jzn.com.tw/api"
-    }
+    },
+    "markTest": {
+        "Url_BaseApi": "https://test-sso.mrmark.com.tw:4001/api"
+    }    
 }
